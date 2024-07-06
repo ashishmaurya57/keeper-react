@@ -1,0 +1,15 @@
+.header{
+    margin: auto -16px;
+    padding: 16px 32px;
+    background-color:#f5ba13;
+    box-shadow: 0 0 10px 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    /* font-size: 45px; */
+   
+   
+}
+.header h1{
+    padding: 10px;
+    color: azure;
+}

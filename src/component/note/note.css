@@ -1,0 +1,20 @@
+.note {
+    height:50px;
+    width:250px;
+    padding: 20px;
+    margin:20px;
+    border:2px solid white;
+    box-shadow: 2px 2px 3px 3px rgb(228, 223, 223);
+   box-sizing: content-box; 
+    }
+  
+    .title{
+        display: flex;
+        padding-top: -10px;
+        justify-content: space-between;
+        font-size:20px;
+
+        
+    
+    }
+  
